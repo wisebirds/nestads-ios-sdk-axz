@@ -1,26 +1,18 @@
-// swift-tools-version: 6.2
+// swift-tools-version: 5.9
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
 let package = Package(
-    name: "nestads-ios-sdk-axz",
-    products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
-        .library(
-            name: "nestads-ios-sdk-axz",
-            targets: ["nestads-ios-sdk-axz"]
-        ),
-    ],
-    targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "nestads-ios-sdk-axz"
-        ),
-        .testTarget(
-            name: "nestads-ios-sdk-axzTests",
-            dependencies: ["nestads-ios-sdk-axz"]
-        ),
-    ]
+  name: "NestAdsSDK",
+  platforms: [.iOS(.v12)],
+  products: [
+    .library(
+      name: "NestAdsSDK",
+      targets: ["NestAdsSDK"]
+    ),
+  ],
+  targets: [
+    .binaryTarget(name: "NestAdsSDK", path: "Sources/NestAdsSDK.xcframework"),
+  ]
 )
