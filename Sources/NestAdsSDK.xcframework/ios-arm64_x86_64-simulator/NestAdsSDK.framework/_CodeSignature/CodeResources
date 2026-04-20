@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/NestAdsSDK-Swift.h</key>
 		<data>
-		+YyXbqfB/epFbhsrCR2U11xeyVA=
+		bFG4pUSZsDQkniEasIGkCVjM6Fk=
 		</data>
 		<key>Headers/NestAdsSdk.h</key>
 		<data>
@@ -26,15 +26,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1/rNhHcn7IzOXEq3T57g6/bJMKM=
+		NUdBTIud1U2d+caW9XJbuCrDh6I=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0nDiMk1e79oBlbswKZXRp2mvEos=
+		Fsvelhju149DnwzEj6fhAhUoGQs=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ouQwmVZChL5PTtkHT8C68M8k29U=
+		ZhgtRZGXU7W6/Q6XQquoDPhYrxg=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ouQwmVZChL5PTtkHT8C68M8k29U=
+		ZhgtRZGXU7W6/Q6XQquoDPhYrxg=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ONS6w/N5uNaFneV2g/g3XTyOxg8=
+		MsZwtAc8Fd6xmqoJc+RBZHo/6tc=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0nDiMk1e79oBlbswKZXRp2mvEos=
+		Fsvelhju149DnwzEj6fhAhUoGQs=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		G9YnEBRT8lmIBTsBKqnvDDZ3OX8=
+		3C5B+jRZfe72ruUq6gQ390QmMQs=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		G9YnEBRT8lmIBTsBKqnvDDZ3OX8=
+		3C5B+jRZfe72ruUq6gQ390QmMQs=
 		</data>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vJwp+mW/PFMx4KUH1O4NMrXtXBQ=
+		B1VGSValK2hNSmm1WZCKoEiOD9k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -153,7 +153,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNgFCtbrxNlKdjb4sto4ALu0peoUC6cMrADj+YKL1xo=
+			JBdfA3vSNkDFZUu8OLsMEmcdrAtLe08h0GKurUCIUi0=
 			</data>
 		</dict>
 		<key>Headers/NestAdsSdk.h</key>
@@ -167,14 +167,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lLXK4OBxZljmevHNH1HaayGWE4If1m2XTeSVLZRF8Ag=
+			G1pdTneA5yKjLlKuEIe/SZtV4bzkv+bxKTPbMr0g88k=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X17m3XAWB5VsSJbJM8lhj33Yqhlx3v1XcrEMxoTa5a8=
+			xb5GRfukTZNxoT64TxQ8pgVdw23gyVveQtSTdKbekQ8=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -188,28 +188,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X17m3XAWB5VsSJbJM8lhj33Yqhlx3v1XcrEMxoTa5a8=
+			xb5GRfukTZNxoT64TxQ8pgVdw23gyVveQtSTdKbekQ8=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TyRQbmAiw5j+WsfrPKTy0IUCu+dQM57lDyZ8ExlVdv0=
+			OyyQWjZ9oRAa3mPSFFgt6O+LyDLSlh5bb+VIEAGqa5Q=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lLXK4OBxZljmevHNH1HaayGWE4If1m2XTeSVLZRF8Ag=
+			G1pdTneA5yKjLlKuEIe/SZtV4bzkv+bxKTPbMr0g88k=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrPKOp/T/jCQUnU+dWiIB765mvjAfWjEfD/M2Lm3M9M=
+			z+5gS72L8wvij24O6Ub33DqYgP5rOio2fiA+/3qBX6E=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -223,14 +223,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrPKOp/T/jCQUnU+dWiIB765mvjAfWjEfD/M2Lm3M9M=
+			z+5gS72L8wvij24O6Ub33DqYgP5rOio2fiA+/3qBX6E=
 			</data>
 		</dict>
 		<key>Modules/NestAdsSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x4NLfwkl/DkELsE6TEODCKz1whl7X0aZ5G8mxIhJYQE=
+			Qc7E3VNE8DzG71ssPSWUMzXqDs5EBHDC/gRD3pawRy4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
